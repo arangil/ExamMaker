@@ -47,6 +47,23 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="bin\Debug\ExamMaker.exe.config" />
+    <None Include="bin\Debug\ExamMaker.vshost.exe.config" />
+    <None Include="bin\Debug\ExamMaker.vshost.exe.manifest" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="bin\Debug\ExamMaker.exe" />
+    <Content Include="bin\Debug\ExamMaker.pdb" />
+    <Content Include="bin\Debug\ExamMaker.vshost.exe" />
+    <Content Include="bin\Debug\ixl\clocks\Capture.JPG" />
+    <Content Include="bin\Debug\ixl\clocks\Capture2.JPG" />
+    <Content Include="bin\Debug\ixl\clocks\Capture3.JPG" />
+    <Content Include="bin\Debug\ixl\division1\Capture.JPG" />
+    <Content Include="bin\Debug\ixl\division1\Capture3.JPG" />
+    <Content Include="bin\Debug\ixl\division1\Capture32.JPG" />
+    <Content Include="bin\Debug\ixl\muliply1\Capture.JPG" />
+    <Content Include="bin\Debug\ixl\muliply1\Capture1.JPG" />
+    <Content Include="bin\Debug\ixl\muliply1\Capture2.JPG" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
